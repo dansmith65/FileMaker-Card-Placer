@@ -19,3 +19,6 @@ Ready for production use, but hasn't been used in a production environment as of
 # Limitations
 
 This module does not support the use of the "Show current record indicator in List View" layout option. Some cards may be placed 3pts off from their intended location when this feature is used.
+
+
+![preview](preview.gif)
