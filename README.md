@@ -8,12 +8,14 @@ FileMaker's `Adjust Window [Resize to Fit]` step only constrain's the card to th
 
 This module can also assist with placing a card relative to a named layout object. This is uefull when you want a card to open directly below a button the user clicked.
 
+As of version 2.2.0, also supports Web Direct and placing document windows.
+
 
 # Status
 
 __Released__
 
-Ready for production use, but hasn't been used in a production environment as of 2018-JUN-13. However, I will be putting it into production, then fixing any bugs/issues that aris.
+Ready for production use and has been used in production since 2018.
 
 
 # Limitations
